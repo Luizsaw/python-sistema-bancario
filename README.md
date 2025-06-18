@@ -17,38 +17,10 @@ Este é um sistema bancário simples executado no terminal que permite ao usuár
 
 ---
 
-## 📌 Regras do Sistema
-
-1. O usuário pode **depositar valores positivos inteiros**.
-2. O extrato é exibido com **data, hora e descrição** de cada operação.
-3. São permitidos até **3 saques por dia**, com limite de **R$ 500,00 por saque**.
-4. **O saldo não pode ser negativo**.
-
----
-
 ## 🚀 Tecnologias Utilizadas
 
 - [Python 3.x](https://www.python.org/)
 - Módulos padrão: `datetime`, `os`
-
----
-
-## ▶️ Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/sistema-bancario-simples.git
-   ```
-
-2. Navegue até a pasta do projeto:
-   ```bash
-   cd sistema-bancario-simples
-   ```
-
-3. Execute o script:
-   ```bash
-   python sistema_bancario.py
-   ```
 
 ---
 
