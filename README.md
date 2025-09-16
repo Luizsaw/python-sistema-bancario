@@ -1,5 +1,5 @@
 
-# 💰 Sistema Bancário Simples
+# Sistema Bancário Simples
 
 Projeto desenvolvido em Python para praticar os fundamentos de programação propostos pela [DIO (Digital Innovation One)](https://web.dio.me/).
 
@@ -7,7 +7,7 @@ Este é um sistema bancário simples executado no terminal que permite ao usuár
 
 ---
 
-## 📋 Funcionalidades
+## Funcionalidades
 
 - ✅ Depositar valores positivos
 - ✅ Sacar até 3 vezes por dia, com limite de R$ 500,00 por saque
@@ -17,14 +17,14 @@ Este é um sistema bancário simples executado no terminal que permite ao usuár
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - [Python 3.x](https://www.python.org/)
 - Módulos padrão: `datetime`, `os`
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 sistema-bancario-simples/
@@ -35,16 +35,16 @@ sistema-bancario-simples/
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Desenvolvido por **Luiz Carlos de Araújo Machado**  
-📍 São Vicente - SP, Brasil  
-📧 [luizsaw@gmail.com](mailto:luizsaw@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/luiz-machado-57366a174)
+São Vicente - SP, Brasil  
+[luizsaw@gmail.com](mailto:luizsaw@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/luiz-machado-57366a174)
 
 ---
 
-## 🧠 Objetivo
+## Objetivo
 
 Este projeto faz parte dos meus estudos e evolução como desenvolvedor, aplicando na prática os fundamentos de Python, lógica de programação e boas práticas de desenvolvimento.
 
