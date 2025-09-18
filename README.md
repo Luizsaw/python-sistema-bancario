@@ -9,11 +9,11 @@ Este é um sistema bancário simples executado no terminal que permite ao usuár
 
 ## Funcionalidades
 
-- ✅ Depositar valores positivos
-- ✅ Sacar até 3 vezes por dia, com limite de R$ 500,00 por saque
-- ✅ Exibir extrato com data e hora de cada operação
-- ✅ Interface simples no terminal
-- ✅ Validação de entradas e mensagens de erro amigáveis
+- Depositar valores positivos
+- Sacar até 3 vezes por dia, com limite de R$ 500,00 por saque
+- Exibir extrato com data e hora de cada operação
+- Interface simples no terminal
+- Validação de entradas e mensagens de erro amigáveis
 
 ---
 
@@ -37,10 +37,7 @@ sistema-bancario-simples/
 
 ## Autor
 
-Desenvolvido por **Luiz Carlos de Araújo Machado**  
-São Vicente - SP, Brasil  
-[luizsaw@gmail.com](mailto:luizsaw@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/luiz-machado-57366a174)
+Desenvolvido por **Luiz Carlos de Araújo Machado**
 
 ---
 
